@@ -1,5 +1,6 @@
-#QA Project
+This is the final project
 
-To run the QA project: 
+This is the link to keroku: http://qafinale.herokuapp.com/home
 
-1. git clone
+This is the story: 
+When the user creates a profile, it should be able to add a comment and edit it.
