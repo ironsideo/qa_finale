@@ -109,6 +109,7 @@ class ProfileController extends Controller
         $profile->fname = $request->lname;
         $profile->lname = $request->lname;
         $profile->body = $request->body;
+        $profile->comments = $request->comments;
         $profile->save();
 
         return redirect()->route('home')->with('message', 'Updated Profile');
