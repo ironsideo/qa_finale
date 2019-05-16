@@ -196,9 +196,13 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+<<<<<<< Updated upstream
     <option name="x" value="677" />
+=======
+    <option name="x" value="67" />
+>>>>>>> Stashed changes
     <option name="y" value="27" />
-    <option name="width" value="689" />
+    <option name="width" value="604" />
     <option name="height" value="636" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
