@@ -1,4 +1,4 @@
-This is the final project
+This is the final project (this is a type B feature)
 
 This is the link to keroku: http://qafinale.herokuapp.com/home
 
